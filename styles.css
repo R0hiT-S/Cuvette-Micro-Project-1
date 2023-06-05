@@ -1,0 +1,129 @@
+#body{
+   margin: 0;
+   padding: 0;
+   height: 95vh;
+   width: 100%;
+   overflow: hidden;
+}
+
+.div1{
+    position: relative;
+    max-height: 80vh;
+    background-color: bisque;
+    display: inline-block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.div2{
+    position: relative;
+    bottom: 46vh;
+    width: 100%;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+h1{
+    width: 65vh;
+    display: inline-block;
+    position: relative;
+    bottom: 60vh;
+    left: 20vh;
+}
+
+#dweep{
+    position: relative;
+    bottom: 5vh;
+    display: inline-block;
+    position: relative;
+    left: 400px;
+}
+
+#p1{
+    width: 50vh;
+    position: relative;
+    bottom: 60vh;
+    left: 20vh;
+}
+
+#p2{
+    color: aliceblue;
+    width: 55vh;
+    position: relative;
+    bottom: 60vh;
+    left: 23vh;
+    size: 600vh;
+}
+strong {
+    width: 55vh;
+    position: relative;
+    bottom: 60vh;
+    left: 20vh;
+}
+
+form {
+    display: inline-block;
+    width: 37vh;
+    box-sizing: border-box;
+    height: 100%;
+    position: relative;
+    bottom: 60vh;
+    left: 20vh;
+    border-radius: 10vh;
+}
+
+input[type=email] {
+  width: 100%;
+  padding: 11px 15px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 1vh;
+  border: 4vh, black;
+}
+
+button{
+    display: inline-block;
+    width: 25vh;
+    height: 6vh;
+    position: relative;
+    bottom: 60vh;
+    left: 20vh;
+    color: aliceblue;
+    background-color: black;
+    border-radius: 1vh;
+}
+
+ul {
+    display: inline-block;
+    color: aliceblue;
+}
+
+#ul1 {
+    position: relative;
+    left: 20vh;
+    top: 2vh;
+}
+
+#ul2 {
+    position: relative;
+    bottom: 5vh;
+    left: 125vh;
+    text-align-last: right;
+}
+
+.logo {
+    position: relative;
+    bottom: 5vh;
+    left: 169vh;
+}
+
+#p3 {
+    color: aliceblue;
+    position: relative;
+    bottom: 5vh;
+    left: 163vh;
+}
+
